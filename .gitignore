@@ -1,0 +1,12 @@
+
+# accidental nested node module
+**/node_modules/
+
+# github link file. for only local project.
+githubLink.md
+
+# Node modules (dependencies)
+node_modules/
+
+# for .env file
+.env
